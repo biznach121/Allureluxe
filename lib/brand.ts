@@ -422,12 +422,12 @@ export const brand: Brand = {
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581425/w22e5ae19sjiofurtmlm.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783575681/ssstik.io__allureluxe.beautybar_1783575524434_lb9elt.mp4",
         alt: "AllureLuxe Beauty Bar beauty media video",
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581429/hptukehgmrufp33qyd5e.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783575678/ssstik.io__allureluxe.beautybar_1783575589031_qb7vnb.mp4",
         alt: "AllureLuxe Beauty Bar salon media video",
         position: "center",
       },
